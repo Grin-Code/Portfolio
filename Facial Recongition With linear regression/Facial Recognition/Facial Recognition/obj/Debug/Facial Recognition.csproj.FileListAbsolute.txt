@@ -1,0 +1,29 @@
+C:\Users\dylan\source\repos\Facial Recognition\Facial Recognition\bin\Debug\Facial Recognition.exe.config
+C:\Users\dylan\source\repos\Facial Recognition\Facial Recognition\bin\Debug\Facial Recognition.exe
+C:\Users\dylan\source\repos\Facial Recognition\Facial Recognition\bin\Debug\Facial Recognition.pdb
+C:\Users\dylan\source\repos\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\Facial Recognition\Facial Recognition\obj\Debug\Facial_Recognition.Form1.resources
+C:\Users\dylan\source\repos\Facial Recognition\Facial Recognition\obj\Debug\Facial_Recognition.Properties.Resources.resources
+C:\Users\dylan\source\repos\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.csproj.GenerateResource.cache
+C:\Users\dylan\source\repos\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.exe
+C:\Users\dylan\source\repos\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.pdb
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\Facial Recognition.exe.config
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\Facial Recognition.exe
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\Facial Recognition.pdb
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.csprojAssemblyReference.cache
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\obj\Debug\Facial_Recognition.Form1.resources
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\obj\Debug\Facial_Recognition.Properties.Resources.resources
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.csproj.GenerateResource.cache
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.exe
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.pdb
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\System.Buffers.dll
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\System.Memory.dll
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\System.Buffers.xml
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\System.Memory.xml
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dylan\Desktop\ICT365 Supp Assesssment\Facial Recognition\Facial Recognition\obj\Debug\Facial Recognition.csproj.CopyComplete
